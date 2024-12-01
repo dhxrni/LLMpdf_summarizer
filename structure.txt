@@ -1,0 +1,24 @@
+"\.venv"  
+            " \.venv\Include"
+            " \.venv\Lib"
+            " \.venv\Scripts"    -----\.venv\Scripts\python.exe"
+            " \.venv\.gitignore"
+            " \.venv\pyvenv.cfg"
+
+"\data"
+
+"\LaMini-Flan-T5-248M"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\config.json"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\generation_config.json"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\gitattributes"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\gitignore"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\pytorch_model.bin"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\README.md"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\special_tokens_map.json"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\spiece.model"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\tokenizer.json"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\tokenizer_config.json"
+            "C:\Users\hp\temppp\LaMini-Flan-T5-248M\training_args.bin"
+ 
+
+"\app.py"
